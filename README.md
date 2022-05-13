@@ -1,7 +1,7 @@
 # crud
 crud de usuarios
-adjunto las diferentes rutas de postamn 
-
+realizado con java.11 spring boot  2.6.7  y maven
+anexo las rutas del postman
 
 http://localhost:8080/crud/all
 http://localhost:8080/crud/add
